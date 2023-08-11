@@ -1,5 +1,7 @@
 # Intermediate Assignment Week 8 - Simple Rest API About Financial Tracking
 
+https://bronze-giraffe-cap.cyclic.app/fintrack/
+
 ## Technologies Used
 
 - Node.js: A JavaScript runtime that allows executing code on the server side.
@@ -59,10 +61,9 @@
    
    Delete transaction by id
    
-   delete methods:
-   ![w8_6-delete](https://github.com/RevoU-FSSE-2/week-8-mfaisalkemal/assets/130155172/114065b3-6917-431a-b861-71ae33727bb3)
-   get methods:
-   ![w8_6-get](https://github.com/RevoU-FSSE-2/week-8-mfaisalkemal/assets/130155172/cd8d393d-f2dc-438f-8ba2-e69593053177)
-https://bronze-giraffe-cap.cyclic.app/fintrack/
+   before:
+   ![w8_6-before](https://github.com/RevoU-FSSE-2/week-8-mfaisalkemal/assets/130155172/91d96479-a4be-44f8-8536-769c86a6b4cf)
+   after delete id 2:
+   ![w8_6-after](https://github.com/RevoU-FSSE-2/week-8-mfaisalkemal/assets/130155172/3403af0e-bd2a-4e2d-88b9-1c18554ac64d)
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sRKW9Tsr)
