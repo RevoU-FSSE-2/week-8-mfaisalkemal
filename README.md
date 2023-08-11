@@ -1,4 +1,5 @@
-# web deploy using cyclic.sh(free package without visa or mastercard)
+# Intermediate Assignment Week 8 - Simple Rest API About Financial Tracking
+
 
 https://enchanting-wasp-blazer.cyclic.app/fintrack
 
