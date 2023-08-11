@@ -1,7 +1,21 @@
 # Intermediate Assignment Week 8 - Simple Rest API About Financial Tracking
 ##  JSON Format Example
 ``
+{
+    "type": "cash-in",
+    "name": "gaji",
+    "detail": "bulan mei",
+    "amount": "6000000"
+}
+``
 
+``
+{
+    "type": "cash-out",
+    "name": "token listrik",
+    "detail": "bulan mei",
+    "amount": "500000"
+}
 ``
 ## Rest API Features
 1. Get
