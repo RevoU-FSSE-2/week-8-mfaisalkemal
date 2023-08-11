@@ -1,4 +1,4 @@
-# web deploy using cyclic.sh
+# web deploy using cyclic.sh(free package without visa or mastercard)
 
 https://mushy-pear-dirndl.cyclic.app/fintrack
 
