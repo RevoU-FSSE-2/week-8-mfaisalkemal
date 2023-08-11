@@ -58,6 +58,7 @@
 6. Delete by id /fintrack/:id
    
    Delete transaction by id
+   
    delete methods:
    ![w8_6-delete](https://github.com/RevoU-FSSE-2/week-8-mfaisalkemal/assets/130155172/114065b3-6917-431a-b861-71ae33727bb3)
    get methods:
